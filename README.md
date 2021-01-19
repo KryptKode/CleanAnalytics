@@ -2,6 +2,8 @@
 
 A simple library to prevent coupling your codebase to a particular analytic SDK. It also adds support for multiple analytics clients.
 
+### WIP: It's still a work in progress. The library is compeleted but no sample yet. 
+
 Possible things to be tracked by analytics can be grouped into three events. An event `tag` is a unique string that identifies the event.
 
 - **Content View Events**
@@ -68,3 +70,8 @@ Possible things to be tracked by analytics can be grouped into three events. An 
         }
     }
     ```
+
+## Things left to do
+- Add a sample app
+- Create Analytics clients for the popular analytic libraries
+- Publish library
